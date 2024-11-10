@@ -1,0 +1,34 @@
+{
+    "debug": 1,
+    "logfile": "log.txt",
+    "markets": [
+        {
+            "name": "11번가 법인",
+            "id": "dy140729",
+            "pw": "duckyun12*",
+            "tp": 1,
+            "yn": 1
+        },
+        {
+            "name": "11번가 개인",
+            "id": "dy130902",
+            "pw": "duckyun12*",
+            "tp": 1,
+            "yn": 0
+        },
+        {
+            "name": "인터파크 법인",
+            "id": "aeja0816",
+            "pw": "dysl1212@",
+            "tp": 2,
+            "yn": 0
+        },
+        {
+            "name": "인터파크 개인",
+            "id": "757rokmc",
+            "pw": "dysl0912!",
+            "tp": 2,
+            "yn": 0
+        }
+    ]
+}
